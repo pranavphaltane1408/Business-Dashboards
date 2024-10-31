@@ -107,3 +107,5 @@ Comprehensive business intelligence dashboard providing deep insights into finan
 - Business Intelligence
 - Data Analysis
 - Financial Reporting
+
+## Snapshot Link -- 1.
