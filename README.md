@@ -4,16 +4,16 @@
 Business Insight 360 is a comprehensive business intelligence dashboard that provides in-depth analytical views across multiple business dimensions including Finance, Sales, Marketing, and Supply Chain. The dashboard offers detailed insights into company performance, covering metrics such as Net Sales, Gross Margin, Profitability, Forecast Accuracy, and Market Share across different regions, segments, and customers.
 
 # Top 10 Questions the Dashboard Answers
-1.What is the overall Net Sales performance across different years?
-2.How do different product segments contribute to the company's revenue?
-3.What is the Gross Margin percentage for various product categories?
-4.Which regions are performing best in terms of Net Sales and Profitability?
-5.What is the Forecast Accuracy for different customers and product segments?
-6.How does the company's market share compare to competitors?
-7.What are the Net Profit percentages across different business segments?
-8.How do different sales channels (Retailer, Direct, Distributor) perform?
-9.What are the inventory risks (Excess Inventory or Out of Stock) for different customers?
-10.How have key financial metrics trended over the past few years?
+1. What is the overall Net Sales performance across different years?
+2. How do different product segments contribute to the company's revenue?
+3. What is the Gross Margin percentage for various product categories?
+4. Which regions are performing best in terms of Net Sales and Profitability?
+5. What is the Forecast Accuracy for different customers and product segments?
+6. How does the company's market share compare to competitors?
+7. What are the Net Profit percentages across different business segments?
+8. How do different sales channels (Retailer, Direct, Distributor) perform?
+9. What are the inventory risks (Excess Inventory or Out of Stock) for different customers?
+10. How have key financial metrics trended over the past few years?
 
 # Important DAX Formulas
 1. Total Net Sales = SUM(Sales[Net Sales])
